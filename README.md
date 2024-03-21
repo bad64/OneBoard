@@ -14,6 +14,8 @@ Modular board for the [Gnome](https://github.com/bad64/OpenFightStick/tree/main/
 
 Order from JLCPCB (other boardhouses might work, this is just the one I tried). Tweak the order to your liking, but make sure to choose Standard PCBA instead of Economic PCBA. The ESP32 is a Standard-only part for some reason. If you feel confident that you can solder it yourself feel free to omit it from your order, you'll save a few bucks !
 
+Add the BOM and Pick&Place files when prompted. You should be good to go.
+
 ## Soldering guide
 
 What neither the BOM nor Pick & Place file includes is what's left for you to solder on, namely the Kailh Choc hotswap sockets, and maybe the ESP32-S3-WROOM-1 if you opted for the cheap SMT option. They're all easy but since there's a whole gaggle of sockets, it's gonna take a minute.
